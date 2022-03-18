@@ -3,6 +3,8 @@
     "description": "Fast key value caching system based on file system (without any databases like Redis or Memcache)",
     "type": "library",
     "license": "MIT",
+    "keywords": ["cache","file cache","key value","key value cache"],
+    "homepage": "https://github.com/alirezaashrafi/php-file-cache",
     "autoload": {
         "psr-4": {
             "Alirezaashrafi\\PhpFileCache\\": "src/"
