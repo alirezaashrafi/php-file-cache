@@ -16,6 +16,7 @@
             "email": "alirezaashrafi.email@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.3.0"
     }
