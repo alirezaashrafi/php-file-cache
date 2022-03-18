@@ -1,0 +1,19 @@
+{
+    "name": "alirezaashrafi/php-file-cache",
+    "description": "Fast key value caching system based on file system (without any databases like Redis or Memcache)",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alirezaashrafi\\PhpFileCache\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alireza Ashrafi",
+            "email": "alirezaashrafi.email@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
