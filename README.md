@@ -27,6 +27,10 @@ $directory = __DIR__ . '/cache-dir';
 $file = 'products';
 
 $cache = new Cache($directory , $file);
+
+// OR
+
+$cache = new Cache(__DIR__ . '/cache-dir' , 'products');
 ```
 - Directory hierarchy (path/cache-dir/products)
 
